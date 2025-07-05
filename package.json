@@ -13,6 +13,9 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "resolutions": {
+    "graphql": "^16.8.1"
+  },
   "dependencies": {
     "@heroicons/react": "^1.0.4",
     "@tailwindcss/forms": "^0.3.3",
