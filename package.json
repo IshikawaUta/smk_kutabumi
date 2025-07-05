@@ -14,7 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "resolutions": {
-    "graphql": "^16.8.1"
+    "graphql": "^15.0.0"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.4",
